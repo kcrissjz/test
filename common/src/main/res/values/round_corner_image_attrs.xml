@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundCornerImageView">
+        <attr name="roundCornerRadius" format="dimension" />
+        <attr name="rcTopLeftRadius" format="dimension" />
+        <attr name="rcTopRightRadius" format="dimension" />
+        <attr name="rcBottomLeftRadius" format="dimension" />
+        <attr name="rcBottomRightRadius" format="dimension" />
+        <attr name="rciStrokeWidth" format="dimension" />
+        <attr name="rciStrokeColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="SquareImageView">
+        <attr name="customTag" format="string" />
+    </declare-styleable>
+</resources>
